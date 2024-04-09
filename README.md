@@ -6,4 +6,9 @@
 
 2、批量生成助记词
 
+### 依赖安装
+
+```
+pip install requirements.txt
+```
 
